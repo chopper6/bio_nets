@@ -1,0 +1,27 @@
+Network file: Bacteria-RegulonDB.txt
+898 nodes
+1481    edges
+365 dominating set
+19.0    bi-directional edges
+no. connected components: 1
+==================================
+Network file: Human-ENCODE-GM.txt
+3989    nodes
+6971    edges
+1659    dominating set
+3.0 bi-directional edges
+no. connected components: 1
+==================================
+Network file: Mouse-Liu.txt
+1436    nodes
+3673    edges
+707 dominating set
+14.0    bi-directional edges
+no. connected components: 1
+==================================
+Network file: Mouse-miRTarBase.txt
+741 nodes
+1019    edges
+421 dominating set
+0.0 bi-directional edges
+no. connected components: 1
